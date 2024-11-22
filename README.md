@@ -19,3 +19,7 @@ markdown olarak kaydettim.
 * Kategorik değişkenler ile bazı analizler yaptım.
 * Histogram, çubuk gibi grafiklerle incelemelerde bulundum.
 * Ülke bazında en çok satış yapılan ülke United Kingdom olduğunu gördüm.
+
+
+### Kaggle Linkim
+* https://www.kaggle.com/ersevenkaratas
